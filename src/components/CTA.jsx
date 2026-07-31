@@ -69,7 +69,7 @@ function CTA() {
           transition={{ duration: 0.6, delay: 0.3 }}
         >
           <a
-            href="https://xanin-xz.vercel.app"
+            href="https://xaninxz.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#3E2723] text-white font-dm font-medium px-10 py-4 rounded-md hover:bg-[#2C1A17] transition-all duration-200 hover:-translate-y-0.5 text-sm shadow-lg shadow-[#3E2723]/20"

@@ -79,7 +79,7 @@ function Footer() {
             <div className="w-1.5 h-1.5 rounded-full bg-[#C4A98A]/50" />
             <p className="text-white/25 font-dm font-light text-xs">
               Built as an experimental showcase by{' '}
-              <span className="text-[#C4A98A]/70 font-medium"><a href="https://xanin-xz.vercel.app/">XANIN XZ</a></span>
+              <span className="text-[#C4A98A]/70 font-medium"><a href="https://xaninxz.com/">XANIN XZ</a></span>
             </p>
           </div>
         </motion.div>
